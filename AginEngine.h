@@ -234,7 +234,7 @@ public:
 			{
 
 				// I am personally not quite sure how this works if its better to do it by name-spaces 
-				// or to limit it by 5 files but for now solution 2 will be appropriate for now
+				// or to limit it by 5 files but for now solution 2 will be appropriate
 				// so for performance we add rules to a new compiler for every 5 rules
 
 				if ( ittr_rules_max > max_rules_comp)
