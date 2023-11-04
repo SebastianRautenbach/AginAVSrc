@@ -144,6 +144,8 @@ public:
 	}
 	
 	// check if file has been accessed recently
+	// This function is not finished and will be changed
+
 	bool isPotentialFile(const char* file_path)
 	{
 		struct stat fileStats;
